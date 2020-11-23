@@ -25,3 +25,11 @@ https://cv.kamilmielnik.com/
 ![Dependencies](https://img.shields.io/david/kamilmielnik/grab-files)
 ![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/kamilmielnik/grab-files)
 ![Prettier](https://github.com/kamilmielnik/grab-files/workflows/Prettier/badge.svg)
+
+## [trie](https://github.com/kamilmielnik/trie)
+![Version](https://img.shields.io/github/package-json/v/kamilmielnik/trie)
+![Dependencies](https://img.shields.io/david/kamilmielnik/trie)
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/kamilmielnik/trie)
+![Test](https://github.com/kamilmielnik/trie/workflows/Test/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+![Prettier](https://github.com/kamilmielnik/fuck-npm/workflows/Prettier/badge.svg)
