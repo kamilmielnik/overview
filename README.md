@@ -10,6 +10,18 @@ https://cv.kamilmielnik.com/
 ![Test](https://github.com/kamilmielnik/cv/workflows/Test/badge.svg)
 ![ESLint](https://github.com/kamilmielnik/cv/workflows/ESLint/badge.svg)
 
+## [scrabble-solver](https://github.com/kamilmielnik/scrabble-solver)
+https://scrabble-solver.kamilmielnik.com/
+
+![Version](https://img.shields.io/github/package-json/v/kamilmielnik/scrabble-solver)
+![License](https://img.shields.io/npm/l/scrabble-solver)
+![Node version](https://img.shields.io/node/v/scrabble-solver)
+![Dependencies](https://img.shields.io/librariesio/github/kamilmielnik/scrabble-solver)
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/kamilmielnik/scrabble-solver)
+![Test](https://github.com/kamilmielnik/scrabble-solver/workflows/Test/badge.svg)
+![ESLint](https://github.com/kamilmielnik/scrabble-solver/workflows/ESLint/badge.svg)
+
+
 ## [fuck-npm](https://github.com/kamilmielnik/fuck-npm)
 ![Version](https://img.shields.io/github/package-json/v/kamilmielnik/fuck-npm)
 ![License](https://img.shields.io/npm/l/fuck-npm)
